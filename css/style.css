@@ -1,0 +1,91 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h2{
+    font-size: 4em;
+}
+h3{
+    font-size: 1.5em;
+}
+h4{
+    font-size: 1.1em;
+}
+
+p{
+    font-size: 2em ;
+}
+
+.logo{
+   background-color: #06090e; 
+   text-align: center;
+}
+.logo_imagem{
+}
+
+.descricao{
+    background-color: #4F4F4F;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.descricao_texto{
+
+}
+
+.descricao_contato{
+    
+}
+
+.contando{
+    text-align: center;
+}
+
+.servicos{
+
+}
+
+.maory{
+    background-color: #3b3d3f;    
+}
+
+.maory_foto{
+    width: 100%;
+}
+
+.maory_texto{
+    padding: 20px;
+    color: white;
+}
+
+label{
+    display: block;
+    padding: 10px;
+}
+input[type=text]{
+    padding: 5px;
+    width: 90%;
+    display: block;
+    padding: 10px;
+}
+
+textarea{
+    width: 90%;
+    display: block;
+    padding: 10px;
+}
+
+.enviar_mensagem{
+    text-align: center;
+    margin: 10px;
+}
+
+footer{
+    padding: 40px;
+    background-color: #3b3d3f;
+    color: white ;
+    text-align: center;
+}
+.rodape{
+
+}
